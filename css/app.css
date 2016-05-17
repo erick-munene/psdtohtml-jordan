@@ -1,0 +1,51 @@
+#body{
+    background-image: url(/assets/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+/*    height: 100%;*/
+}
+
+
+
+#top{
+    background-color:  #565A69;
+    color: #FE9914;
+    font-size: 2em;
+    text-align: center;
+}
+
+
+
+#mid {
+    margin: 20% auto;
+    color: aliceblue;
+    padding-left: 8%;
+    padding-right: 8%;
+    
+}
+#mid2{
+    color: aliceblue;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 2em;
+}
+
+#button{
+    margin-top: 2%;
+    border-radius: 2.5em;
+    padding: 2%;
+    font-size: 1em;
+    color:#FE9914;
+ 
+    background-color:#565A69; 
+}
+
+#footer{
+    color: aliceblue;
+    background-color: #565A69;
+    padding: 2%;
+}
+
+#footer p{
+    color:gray;
+}
